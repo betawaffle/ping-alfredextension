@@ -12,16 +12,20 @@
 	<true/>
 	<key>escapequerybackquotes</key>
 	<true/>
+	<key>escapequerybrackets</key>
+	<false/>
 	<key>escapequeryquotes</key>
 	<true/>
-	<key>growloutput</key>
+	<key>escapequerysemicolons</key>
 	<false/>
+	<key>growloutput</key>
+	<true/>
 	<key>growloutputsticky</key>
 	<true/>
 	<key>keyword</key>
 	<string>ping</string>
 	<key>logging</key>
-	<true/>
+	<false/>
 	<key>silent</key>
 	<true/>
 	<key>subtitle</key>
